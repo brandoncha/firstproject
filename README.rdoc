@@ -1,4 +1,4 @@
 == README
 
-"Why Pizza is awesome!!"
+"peperoni Pizza is awesome!!"
 -jay-
